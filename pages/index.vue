@@ -1,0 +1,22 @@
+<template>
+  <div>
+    <h2>Home</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium enim expedita omnis! Beatae consequatur
+      expedita maiores molestias quos. Molestias, necessitatibus?</p>
+  </div>
+</template>
+
+<script setup>
+
+</script>
+
+<style scoped>
+h2 {
+  margin-bottom: 20px;
+  font-size: 36px;
+}
+
+p {
+  margin: 20px 0;
+}
+</style>
